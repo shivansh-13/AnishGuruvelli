@@ -13,7 +13,7 @@
 [https://anishguruvelli.github.io/anish_g/#portfolio](https://anishguruvelli.github.io/anish_g/#portfolio) 
 
 - 📝 I regularly write articles on
-[https://anishguruvelli.github.io/UCanCode/](https://anishguruvelli.github.io/UCanCode/)
+[https://anishguruvelli.medium.com](https://anishguruvelli.medium.com)
 
 - 📫 How to reach me **guruvellianish@gmail.com**
 
