@@ -1,25 +1,21 @@
 
-<h1 align="center">Hi 👋, I'm Anish Guruvelli</h1>
+<h1 align="center">Hi 👋, I'm Shivansh Shrivastava</h1>
 <h3 align="center">Student</h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=anishguruvelli&label=Profile%20views&color=blueviolet&style=flat"
-        alt="anishguruvelli" />
+        alt="Shivansh" />
 </p>
 
-- 🌱 I’m currently learning **React, Firebase, MongoDb, etc.**
+- 🌱 I’m currently learning **React, Firebase, Material UI, etc.**
 
 - 👨‍💻 All of my projects are available at
-[https://anishguruvelli.github.io/anish_g/#portfolio](https://anishguruvelli.github.io/anish_g/#portfolio) 
+[https://shivansh-13.github.io/my-website/](https://shivansh-13.github.io/my-website/) 
 
-- 📝 I regularly write articles on Apex📈 
-[https://anishguruvelli.substack.com](https://anishguruvelli.substack.com). Do check it out and subsribe to receive my weekly newsletter.
-
-- 📫 How to reach me **guruvellianish@gmail.com**
+- 📫 How to reach me **shivansh01308@gmail.com**
 
 - 📄 Know more about me at
-[https://anishguruvelli.github.io/anish_g/#about](https://anishguruvelli.github.io/anish_g/#about)
-
+[https://shivansh-13.github.io/my-website/](https://shivansh-13.github.io/my-website/) 
 
 ### 🛠 &nbsp;Languages and Tools
 
@@ -51,7 +47,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/anishguruvelli">
+<a href="https://github.com/shivansh-13">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anishguruvelli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anishguruvelli&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -61,8 +57,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="https://linkedin.com/in/anishguruvelli"><img src="https://img.shields.io/badge/-AnishGuruvelli-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:guruvellianish@gmail.com"><img src="https://img.shields.io/badge/-guruvellianish@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/anish_guruvelli"><img src="https://img.shields.io/badge/-@AnishGuruvelli-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
-<a href="https://instagram.com/anish_guruvelli"><img src="https://img.shields.io/badge/-@AnishGuruvelli-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shivansh-shrivastava-716013205/"><img src="https://img.shields.io/badge/shivansh-shrivastava-716013205/style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:shivansh01308@gmail.com"><img src="https://img.shields.io/badge/-guruvellianish@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://shivansh-13.github.io/my-website/"><img src="https://img.shields.io/badge/-@AnishGuruvelli-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
