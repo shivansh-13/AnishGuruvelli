@@ -17,6 +17,15 @@
 - 📄 Know more about me at
 [https://shivansh-13.github.io/my-website/](https://shivansh-13.github.io/my-website/) 
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/shivansh-13">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shivansh-13&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shivansh-13&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ### 🛠 &nbsp;Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -43,15 +52,6 @@
 
 
 ![github](https://user-images.githubusercontent.com/71402528/106022694-225cfd80-60ec-11eb-9d3d-78cf6bf8d2ef.gif)
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/shivansh-13">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shivansh-13&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shivansh-13&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 
 ### 🤝🏻 &nbsp;Connect with Me
