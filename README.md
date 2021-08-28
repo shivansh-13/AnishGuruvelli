@@ -3,7 +3,7 @@
 <h3 align="center">Student</h3>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=anishguruvelli&label=Profile%20views&color=blueviolet&style=flat"
+    <img src="https://komarev.com/ghpvc/?username=shivansh-13&label=Profile%20views&color=blueviolet&style=flat"
         alt="Shivansh" />
 </p>
 
