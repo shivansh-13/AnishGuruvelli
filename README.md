@@ -58,6 +58,6 @@
 
 <p>
 <a href="https://www.linkedin.com/in/shivansh-shrivastava-716013205/"><img src="https://img.shields.io/badge/shivansh-shrivastava-716013205/style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:shivansh01308@gmail.com"><img src="https://img.shields.io/badge/-guruvellianish@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://shivansh-13.github.io/my-website/"><img src="https://img.shields.io/badge/-@AnishGuruvelli-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:shivansh01308@gmail.com"><img src="https://img.shields.io/badge/-shivansh01308@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://shivansh-13.github.io/my-website/"><img src="https://img.shields.io/badge/-@Shivansh-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
