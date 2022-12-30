@@ -7,7 +7,7 @@
         alt="Shivansh" />
 </p>
 
-- 🌱 I’m currently learning **React, Firebase, Material UI, etc.**
+- 🌱 I’m currently learning **Opensource (Homebrew), React, Firebase, Material UI, etc.**
 
 - 👨‍💻 All of my projects are available at
 [https://shivansh-13.github.io/my-website/](https://shivansh-13.github.io/my-website/) 
