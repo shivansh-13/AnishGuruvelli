@@ -8,6 +8,8 @@
 </p>
 
 - 🌱Creating tomorrow's obsolete software today : )
+- 👨🏼‍🎓I am a Postman Student Expert and Student Leader representing at BITS Pilani, Hyderabad Campus
+- 🧑🏽‍💻President of the Computer Science Association [CSA], BPHC 
 
 - 👨‍💻 All of my projects are available at
 [https://shivansh-13.github.io/my-website/](https://shivansh-13.github.io/my-website/) 
