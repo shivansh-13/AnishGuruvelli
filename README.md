@@ -8,6 +8,7 @@
 </p>
 
 - 🌱Creating tomorrow's obsolete software today : )
+- 💎Currently interning at Dr Reddy's Laboratories (DRL) corporate division. Previously interned at Catalog (Immutable Ren Labs).
 - 👨🏼‍🎓I am a Postman Student Expert and Student Leader representing at BITS Pilani, Hyderabad Campus
 - 🧑🏽‍💻President of the Computer Science Association [CSA], BPHC 
 
