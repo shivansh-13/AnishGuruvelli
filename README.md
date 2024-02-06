@@ -13,7 +13,7 @@
 - 🧑🏽‍💻President of the Computer Science Association [CSA], BPHC 
 
 - 👨‍💻 All of my projects are available at
-[https://shivansh-13.github.io/my-website/](https://shivansh-13.github.io/my-website/) 
+[https://shivansh-13.github.io/my-website/](https://shivansh-13.github.io/my-website/) (obsolete already!!)
 
 - 📫 How to reach me **shivansh01308@gmail.com**
 
